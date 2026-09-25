@@ -1,0 +1,81 @@
+Test case          | Total agents | Agents done  | DDLs met     | Plan Time  | SIC          | Makespan     | Penalty      | Final SIC    | P Score     
+multi_test_case/level0_test_0 | 5            | 5            | 5            | 0.0        | 64           | 21           | 0            | 64           | 12          
+multi_test_case/level0_test_1 | 5            | 5            | 5            | 0.0        | 69           | 27           | 0            | 69           | 13          
+multi_test_case/level0_test_2 | 5            | 5            | 4            | 0.0        | 76           | 28           | 5            | 81           | 16          
+multi_test_case/level0_test_3 | 5            | 5            | 5            | 0.0        | 85           | 30           | 0            | 85           | 17          
+multi_test_case/level0_test_4 | 5            | 5            | 5            | 0.0        | 66           | 23           | 0            | 66           | 13          
+multi_test_case/level0_test_5 | 5            | 5            | 5            | 0.0        | 65           | 19           | 0            | 65           | 13          
+multi_test_case/level0_test_6 | 5            | 5            | 5            | 0.0        | 58           | 22           | 0            | 58           | 11          
+multi_test_case/level0_test_7 | 5            | 5            | 5            | 0.0        | 32           | 14           | 0            | 32           | 6           
+[PLAN] 1 of 12 agents got no path at all
+multi_test_case/level1_test_0 | 12           | 11           | 10           | 0.02       | 859          | 75           | 12           | 871          | 72          
+multi_test_case/level1_test_1 | 12           | 12           | 8            | 0.02       | 636          | 115          | 61           | 697          | 58          
+multi_test_case/level1_test_2 | 12           | 12           | 10           | 0.02       | 398          | 53           | 5            | 403          | 33          
+multi_test_case/level1_test_3 | 12           | 12           | 9            | 0.02       | 475          | 95           | 19           | 494          | 41          
+multi_test_case/level1_test_4 | 12           | 12           | 10           | 0.02       | 578          | 85           | 25           | 603          | 50          
+multi_test_case/level1_test_5 | 12           | 6            | 6            | 0.02       | 2604         | 395          | 1987         | 4591         | 382         
+multi_test_case/level1_test_6 | 12           | 12           | 7            | 0.03       | 658          | 86           | 47           | 705          | 58          
+multi_test_case/level1_test_7 | 12           | 9            | 7            | 0.04       | 1702         | 399          | 998          | 2700         | 225         
+[PLAN] 1 of 25 agents got no path at all
+multi_test_case/level2_test_0 | 25           | 24           | 21           | 0.11       | 2375         | 127          | 38           | 2413         | 96          
+[PLAN] 2 of 25 agents got no path at all
+multi_test_case/level2_test_1 | 25           | 23           | 20           | 0.14       | 3362         | 174          | 43           | 3405         | 136         
+[PLAN] 1 of 25 agents got no path at all
+multi_test_case/level2_test_2 | 25           | 24           | 21           | 0.13       | 2642         | 168          | 68           | 2710         | 108         
+multi_test_case/level2_test_3 | 25           | 25           | 22           | 0.15       | 1758         | 142          | 25           | 1783         | 71          
+multi_test_case/level2_test_4 | 25           | 23           | 14           | 0.28       | 4100         | 721          | 1448         | 5548         | 221         
+multi_test_case/level2_test_5 | 25           | 25           | 21           | 0.13       | 1941         | 148          | 61           | 2002         | 80          
+multi_test_case/level2_test_6 | 25           | 25           | 21           | 0.12       | 1920         | 155          | 56           | 1976         | 79          
+multi_test_case/level2_test_7 | 25           | 25           | 18           | 0.16999999999999998 | 2200         | 227          | 134          | 2334         | 93          
+[PLAN] 1 of 37 agents got no path at all
+multi_test_case/level3_test_0 | 37           | 36           | 35           | 0.49       | 5654         | 258          | 9            | 5663         | 153         
+[PLAN] 1 of 37 agents got no path at all
+multi_test_case/level3_test_1 | 37           | 36           | 34           | 0.46       | 5147         | 210          | 15           | 5162         | 139         
+multi_test_case/level3_test_2 | 37           | 37           | 33           | 0.43       | 3714         | 177          | 42           | 3756         | 101         
+[PLAN] 1 of 37 agents got no path at all
+multi_test_case/level3_test_3 | 37           | 36           | 32           | 0.47       | 5107         | 252          | 182          | 5289         | 142         
+multi_test_case/level3_test_4 | 37           | 37           | 30           | 0.55       | 4126         | 229          | 145          | 4271         | 115         
+[PLAN] 2 of 37 agents got no path at all
+multi_test_case/level3_test_5 | 37           | 35           | 29           | 0.43       | 6662         | 209          | 90           | 6752         | 182         
+[PLAN] 1 of 37 agents got no path at all
+multi_test_case/level3_test_6 | 37           | 33           | 29           | 0.54       | 8731         | 1191         | 4066         | 12797        | 345         
+multi_test_case/level3_test_7 | 37           | 33           | 31           | 0.53       | 8968         | 1178         | 3700         | 12668        | 342         
+[PLAN] 1 of 50 agents got no path at all
+multi_test_case/level4_test_0 | 50           | 49           | 40           | 2.37       | 9180         | 285          | 303          | 9483         | 189         
+[PLAN] 1 of 50 agents got no path at all
+multi_test_case/level4_test_1 | 50           | 49           | 48           | 1.02       | 8507         | 287          | 113          | 8620         | 172         
+multi_test_case/level4_test_2 | 50           | 50           | 47           | 1.31       | 7632         | 230          | 49           | 7681         | 153         
+multi_test_case/level4_test_3 | 50           | 50           | 44           | 1.74       | 8343         | 307          | 70           | 8413         | 168         
+multi_test_case/level4_test_4 | 50           | 33           | 29           | 16.869999999999752 | 31344        | 1564         | 22900        | 54244        | 1084        
+multi_test_case/level4_test_5 | 50           | 50           | 42           | 2.13       | 7825         | 290          | 248          | 8073         | 161         
+multi_test_case/level4_test_6 | 50           | 50           | 43           | 1.01       | 6961         | 310          | 75           | 7036         | 140         
+multi_test_case/level4_test_7 | 50           | 50           | 45           | 1.04       | 6215         | 220          | 20           | 6235         | 124         
+multi_test_case/level5_test_0 | 75           | 75           | 67           | 4.69       | 14606        | 468          | 117          | 14723        | 196         
+[PLAN] 1 of 75 agents got no path at all
+multi_test_case/level5_test_1 | 75           | 74           | 72           | 3.25       | 16250        | 365          | 118          | 16368        | 218         
+multi_test_case/level5_test_2 | 75           | 75           | 70           | 5.4        | 15468        | 451          | 41           | 15509        | 206         
+[PLAN] 2 of 75 agents got no path at all
+multi_test_case/level5_test_3 | 75           | 73           | 67           | 3.09       | 18170        | 438          | 232          | 18402        | 245         
+[PLAN] 1 of 75 agents got no path at all
+multi_test_case/level5_test_4 | 75           | 65           | 58           | 5.750000000000001 | 37241        | 2393         | 19982        | 57223        | 762         
+multi_test_case/level5_test_5 | 75           | 70           | 64           | 4.550000000000001 | 24859        | 2376         | 10647        | 35506        | 473         
+multi_test_case/level5_test_6 | 75           | 73           | 64           | 4.449999999999999 | 18668        | 2340         | 4177         | 22845        | 304         
+[PLAN] 1 of 75 agents got no path at all
+multi_test_case/level5_test_7 | 75           | 64           | 61           | 26.26000000000085 | 38158        | 2373         | 23512        | 61670        | 822         
+[PLAN] 1 of 150 agents got no path at all
+multi_test_case/level6_test_0 | 150          | 149          | 146          | 9.13       | 27218        | 414          | 121          | 27339        | 182         
+multi_test_case/level6_test_1 | 150          | 150          | 145          | 10.73      | 24478        | 292          | 21           | 24499        | 163         
+[PLAN] 1 of 150 agents got no path at all
+multi_test_case/level6_test_2 | 150          | 149          | 142          | 10.38      | 28549        | 507          | 316          | 28865        | 192         
+[PLAN] 1 of 150 agents got no path at all
+multi_test_case/level6_test_3 | 150          | 149          | 138          | 10.14      | 27638        | 426          | 197          | 27835        | 185         
+[PLAN] 1 of 150 agents got no path at all
+multi_test_case/level6_test_4 | 150          | 144          | 133          | 33.240000000000734 | 41313        | 2352         | 12314        | 53627        | 357         
+[PLAN] 1 of 150 agents got no path at all
+multi_test_case/level6_test_5 | 150          | 149          | 137          | 9.850000000000001 | 25693        | 328          | 296          | 25989        | 173         
+[PLAN] 1 of 150 agents got no path at all
+multi_test_case/level6_test_6 | 150          | 146          | 134          | 10.57      | 34237        | 2383         | 8844         | 43081        | 287         
+[PLAN] 1 of 150 agents got no path at all
+multi_test_case/level6_test_7 | 150          | 140          | 132          | 13.499999999999993 | 45902        | 2380         | 21686        | 67588        | 450         
+Summary            | 2832 (sum)   | 2729 (sum)   | 2485(sum)    | 197.79(sum) | 601287 (sum) | 30832 (sum)  | 139680 (sum) | 740967 (sum) | None (final)
+Press enter to exit:

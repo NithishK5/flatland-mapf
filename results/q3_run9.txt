@@ -1,0 +1,84 @@
+Test case          | Total agents | Agents done  | DDLs met     | Plan Time  | SIC          | Makespan     | Penalty      | Final SIC    | P Score     
+multi_test_case/level0_test_0 | 5            | 5            | 5            | 0.0        | 64           | 21           | 0            | 64           | 12          
+multi_test_case/level0_test_1 | 5            | 5            | 5            | 0.0        | 69           | 27           | 0            | 69           | 13          
+multi_test_case/level0_test_2 | 5            | 5            | 4            | 0.0        | 76           | 28           | 5            | 81           | 16          
+multi_test_case/level0_test_3 | 5            | 5            | 5            | 0.01       | 85           | 30           | 0            | 85           | 17          
+multi_test_case/level0_test_4 | 5            | 5            | 5            | 0.01       | 66           | 23           | 0            | 66           | 13          
+multi_test_case/level0_test_5 | 5            | 5            | 5            | 0.01       | 64           | 18           | 0            | 64           | 12          
+multi_test_case/level0_test_6 | 5            | 5            | 5            | 0.01       | 58           | 22           | 0            | 58           | 11          
+multi_test_case/level0_test_7 | 5            | 5            | 5            | 0.0        | 32           | 14           | 0            | 32           | 6           
+multi_test_case/level1_test_0 | 12           | 12           | 12           | 0.06       | 489          | 70           | 0            | 489          | 40          
+multi_test_case/level1_test_1 | 12           | 12           | 10           | 0.09       | 541          | 85           | 16           | 557          | 46          
+multi_test_case/level1_test_2 | 12           | 12           | 12           | 0.04       | 382          | 50           | 0            | 382          | 31          
+multi_test_case/level1_test_3 | 12           | 12           | 10           | 0.05       | 449          | 90           | 11           | 460          | 38          
+multi_test_case/level1_test_4 | 12           | 12           | 10           | 0.04       | 578          | 85           | 25           | 603          | 50          
+[REPAIR] previous instance: 4 replan calls, 7 routes rebuilt, 0 found no route, 0 stranded pickups
+multi_test_case/level1_test_5 | 12           | 4            | 2            | 2.7099999999999995 | 3686         | 399          | 3020         | 6706         | 558         
+[REPAIR] previous instance: 35 replan calls, 191 routes rebuilt, 140 found no route, 92 stranded pickups
+multi_test_case/level1_test_6 | 12           | 12           | 9            | 0.05       | 582          | 85           | 23           | 605          | 50          
+[REPAIR] previous instance: 4 replan calls, 7 routes rebuilt, 0 found no route, 0 stranded pickups
+multi_test_case/level1_test_7 | 12           | 12           | 9            | 0.15       | 660          | 97           | 20           | 680          | 56          
+[REPAIR] previous instance: 5 replan calls, 11 routes rebuilt, 0 found no route, 0 stranded pickups
+multi_test_case/level2_test_0 | 25           | 25           | 23           | 0.43       | 1672         | 133          | 29           | 1701         | 68          
+multi_test_case/level2_test_1 | 25           | 25           | 24           | 0.51       | 2045         | 172          | 22           | 2067         | 82          
+multi_test_case/level2_test_2 | 25           | 25           | 21           | 0.57       | 1949         | 151          | 86           | 2035         | 81          
+multi_test_case/level2_test_3 | 25           | 25           | 22           | 0.41       | 1758         | 142          | 25           | 1783         | 71          
+multi_test_case/level2_test_4 | 25           | 25           | 13           | 2.23       | 3497         | 605          | 948          | 4445         | 177         
+[REPAIR] previous instance: 14 replan calls, 58 routes rebuilt, 23 found no route, 20 stranded pickups
+multi_test_case/level2_test_5 | 25           | 25           | 21           | 0.57       | 1868         | 135          | 56           | 1924         | 76          
+[REPAIR] previous instance: 6 replan calls, 12 routes rebuilt, 0 found no route, 0 stranded pickups
+multi_test_case/level2_test_6 | 25           | 18           | 15           | 9.84       | 6825         | 799          | 4838         | 11663        | 466         
+[REPAIR] previous instance: 40 replan calls, 182 routes rebuilt, 134 found no route, 95 stranded pickups
+multi_test_case/level2_test_7 | 25           | 25           | 18           | 0.75       | 2200         | 227          | 134          | 2334         | 93          
+[REPAIR] previous instance: 5 replan calls, 11 routes rebuilt, 0 found no route, 0 stranded pickups
+multi_test_case/level3_test_0 | 37           | 37           | 29           | 3.14       | 4701         | 269          | 57           | 4758         | 128         
+multi_test_case/level3_test_1 | 37           | 37           | 35           | 4.56       | 4045         | 170          | 53           | 4098         | 110         
+multi_test_case/level3_test_2 | 37           | 37           | 34           | 1.81       | 3574         | 177          | 13           | 3587         | 96          
+multi_test_case/level3_test_3 | 37           | 37           | 34           | 3.25       | 3898         | 249          | 42           | 3940         | 106         
+multi_test_case/level3_test_4 | 37           | 37           | 31           | 3.38       | 4005         | 250          | 154          | 4159         | 112         
+[REPAIR] previous instance: 5 replan calls, 7 routes rebuilt, 0 found no route, 0 stranded pickups
+multi_test_case/level3_test_5 | 37           | 37           | 29           | 2.61       | 4697         | 208          | 120          | 4817         | 130         
+[REPAIR] previous instance: 8 replan calls, 11 routes rebuilt, 0 found no route, 0 stranded pickups
+multi_test_case/level3_test_6 | 37           | 32           | 22           | 22.620000000000005 | 10185        | 1199         | 5410         | 15595        | 421         
+[REPAIR] previous instance: 30 replan calls, 122 routes rebuilt, 73 found no route, 51 stranded pickups
+multi_test_case/level3_test_7 | 37           | 37           | 33           | 2.67       | 5201         | 389          | 67           | 5268         | 142         
+[REPAIR] previous instance: 9 replan calls, 21 routes rebuilt, 2 found no route, 2 stranded pickups
+multi_test_case/level4_test_0 | 50           | 50           | 46           | 9.98       | 6975         | 200          | 34           | 7009         | 140         
+multi_test_case/level4_test_1 | 50           | 50           | 46           | 5.62       | 6854         | 256          | 16           | 6870         | 137         
+multi_test_case/level4_test_2 | 50           | 50           | 45           | 6.6        | 7573         | 241          | 26           | 7599         | 151         
+multi_test_case/level4_test_3 | 50           | 50           | 44           | 7.82       | 8343         | 307          | 70           | 8413         | 168         
+multi_test_case/level4_test_4 | 50           | 41           | 32           | 41.70000000000001 | 20761        | 1599         | 12957        | 33718        | 674         
+[REPAIR] previous instance: 70 replan calls, 426 routes rebuilt, 242 found no route, 189 stranded pickups
+multi_test_case/level4_test_5 | 50           | 50           | 45           | 7.86       | 7410         | 315          | 109          | 7519         | 150         
+[REPAIR] previous instance: 11 replan calls, 23 routes rebuilt, 4 found no route, 4 stranded pickups
+multi_test_case/level4_test_6 | 50           | 50           | 43           | 4.92       | 7071         | 310          | 75           | 7146         | 142         
+[REPAIR] previous instance: 10 replan calls, 24 routes rebuilt, 4 found no route, 4 stranded pickups
+multi_test_case/level4_test_7 | 50           | 50           | 43           | 6.24       | 5986         | 203          | 88           | 6074         | 121         
+[REPAIR] previous instance: 7 replan calls, 8 routes rebuilt, 0 found no route, 0 stranded pickups
+multi_test_case/level5_test_0 | 75           | 75           | 68           | 20.11      | 14279        | 365          | 81           | 14360        | 191         
+multi_test_case/level5_test_1 | 75           | 75           | 68           | 14.39      | 14045        | 337          | 92           | 14137        | 188         
+multi_test_case/level5_test_2 | 75           | 75           | 70           | 21.8       | 15468        | 451          | 41           | 15509        | 206         
+multi_test_case/level5_test_3 | 75           | 75           | 67           | 13.33      | 13546        | 305          | 131          | 13677        | 182         
+multi_test_case/level5_test_4 | 75           | 73           | 59           | 26.229999999999997 | 20894        | 2399         | 4492         | 25386        | 338         
+[REPAIR] previous instance: 29 replan calls, 89 routes rebuilt, 30 found no route, 24 stranded pickups
+multi_test_case/level5_test_5 | 75           | 75           | 62           | 15.339999999999998 | 14397        | 359          | 439          | 14836        | 197         
+[REPAIR] previous instance: 16 replan calls, 43 routes rebuilt, 6 found no route, 6 stranded pickups
+multi_test_case/level5_test_6 | 75           | 73           | 60           | 20.96      | 19201        | 2399         | 4364         | 23565        | 314         
+[REPAIR] previous instance: 28 replan calls, 69 routes rebuilt, 25 found no route, 17 stranded pickups
+[PLAN] 1 of 75 agents stranded after reordering
+multi_test_case/level5_test_7 | 75           | 74           | 67           | 12.77      | 16068        | 357          | 161          | 16229        | 216         
+[REPAIR] previous instance: 16 replan calls, 29 routes rebuilt, 6 found no route, 6 stranded pickups
+multi_test_case/level6_test_0 | 150          | 150          | 141          | 40.14      | 25098        | 357          | 200          | 25298        | 168         
+multi_test_case/level6_test_1 | 150          | 150          | 140          | 43.37      | 24109        | 278          | 116          | 24225        | 161         
+multi_test_case/level6_test_2 | 150          | 150          | 138          | 45.17      | 26147        | 401          | 165          | 26312        | 175         
+multi_test_case/level6_test_3 | 150          | 150          | 136          | 44.42      | 25291        | 397          | 225          | 25516        | 170         
+[PLAN] 1 of 150 agents stranded after reordering
+multi_test_case/level6_test_4 | 150          | 149          | 135          | 46.660000000000004 | 30662        | 406          | 396          | 31058        | 207         
+[REPAIR] previous instance: 17 replan calls, 37 routes rebuilt, 3 found no route, 2 stranded pickups
+multi_test_case/level6_test_5 | 150          | 144          | 131          | 48.36      | 37105        | 2399         | 13070        | 50175        | 334         
+[REPAIR] previous instance: 36 replan calls, 156 routes rebuilt, 79 found no route, 62 stranded pickups
+multi_test_case/level6_test_6 | 150          | 143          | 121          | 130.22000000000003 | 41964        | 2399         | 16474        | 58438        | 389         
+[REPAIR] previous instance: 42 replan calls, 262 routes rebuilt, 130 found no route, 110 stranded pickups
+multi_test_case/level6_test_7 | 150          | 150          | 134          | 36.410000000000004 | 23646        | 331          | 215          | 23861        | 159         
+Summary            | 2832 (sum)   | 2784 (sum)   | 2458(sum)    | 733.0(sum) | 502894 (sum) | 23790 (sum)  | 69211 (sum)  | 572105 (sum) | None (final)
+Press enter to exit:
